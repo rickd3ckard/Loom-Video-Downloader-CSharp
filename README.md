@@ -11,7 +11,7 @@ Loomdl is a simple C# console application **designed to work with Windows-native
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/rickd3ckard/loomdl.git
+   git clone https://github.com/rickd3ckard/Loom-Video-Downloader-CSharp.git
    cd loomdl 
     ```
 2. Build the project using the .NET CLI:
@@ -49,5 +49,5 @@ loomdl download <video-url> [filename]
 
 ### Example
 ```bash
-loomdl download https://www.loom.com/share/abcd1234xyz
+loomdl download https://www.loom.com/share/abcd1234xyz CoolVideo
 ```
