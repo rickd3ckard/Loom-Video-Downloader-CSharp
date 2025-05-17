@@ -11,7 +11,7 @@ Loomdl is a simple C# console application **designed to work with Windows-native
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/loomdl.git
+   git clone https://github.com/rickd3ckard/loomdl.git
    cd loomdl 
     ```
 2. Build the project using the .NET CLI:
